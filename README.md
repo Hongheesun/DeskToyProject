@@ -1,5 +1,4 @@
 # DeskProject
-# WeatherTogether
 
 ### 💡 계기
 나만의 책상을 만들어 방명록도 남기고 메모도 할 수 있게 만들면 좋지 않을까??
